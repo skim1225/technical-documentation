@@ -1,0 +1,12 @@
+
+
+@media (max-width: 1000px) {
+  header {
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  section {
+    padding: 10px 5px;
+  }
+}
